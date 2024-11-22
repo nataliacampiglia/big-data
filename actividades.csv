@@ -1,0 +1,17 @@
+ID,Actividad,Condición de Viento (km/h),Temperatura Ideal (°C),Humedad (%),Descripción,Precipitaciones (mm),Insolación (horas/día)
+1,Senderismo,0 - 20,10 - 25,30 - 60,"Caminatas en senderos naturales, ideal en días frescos y con poco viento.",0,6 - 12
+2,Parapente,10 - 25,15 - 30,20 - 50,"Requiere viento moderado, pero sin ráfagas fuertes para un vuelo seguro.",0,6 - 12
+3,Surf,5 - 25,20 - 30,50 - 70,Viento moderado y buen oleaje; alta humedad es común cerca del mar.,0 - 5,8 - 12
+4,Ciclismo,0 - 15,15 - 25,40 - 60,Ideal con viento bajo para facilitar el pedaleo; días templados.,0,6 - 12
+5,Esquí o Snowboard,0 - 15,-5 - 5,50 - 80,"Preferible con poco viento para visibilidad, bajas temperaturas necesarias.",0 - 10,0 - 4
+6,Kayak o Piragüismo,0 - 10,15 - 30,40 - 70,Requiere aguas tranquilas y viento mínimo para mayor seguridad.,0 - 5,8 - 12
+7,Escalada en roca,0 - 10,10 - 20,30 - 50,"Se necesita estabilidad climática, con viento mínimo y clima fresco.",0,6 - 12
+8,Picnic al aire libre,0 - 10,20 - 30,40 - 60,"Ideal en días soleados, sin viento y con temperatura moderada.",0,8 - 12
+9,Fotografía de naturaleza,0 - 15,10 - 25,30 - 60,Condiciones climáticas suaves para capturar imágenes nítidas.,0 - 5,6 - 12
+10,Running,0 - 15,10 - 20,30 - 50,"Clima fresco y poco viento, ideal para carreras cómodas y sin deshidratación.",0,6 - 12
+11,Buceo,0 - 5,20 - 30,60 - 80,"Viento casi nulo y temperaturas cálidas, con alta humedad marítima.",0,8 - 12
+12,Observación de aves,0 - 10,10 - 20,40 - 60,Ideal en días serenos y frescos para no perturbar a las aves.,0,6 - 12
+13,Pesca deportiva,0 - 15,15 - 25,40 - 70,Condiciones tranquilas para estabilidad del agua y comodidad.,0 - 5,6 - 12
+14,Campamento,0 - 15,15 - 25,30 - 60,Clima templado y poco viento para montar tiendas y disfrutar al aire libre.,0 - 5,6 - 12
+15,Kitesurf,15 - 30,20 - 30,50 - 70,Requiere viento fuerte pero constante para navegar sobre el agua con cometa.,0,8 - 12
+16,Trekking,0 - 20,10 - 20,30 - 60,"Caminatas de mayor intensidad que el senderismo, ideales en días frescos y secos.",0 - 5,6 - 12
